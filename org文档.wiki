@@ -1,0 +1,1 @@
+:e ~/.vim/plugged/vim-orgmode/doc/orgguide.txt

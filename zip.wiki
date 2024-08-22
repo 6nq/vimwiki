@@ -1,0 +1,3 @@
+unzip *.zip
+tar -zxvf target.tar.gz
+tar -zcvf .tar.gz source

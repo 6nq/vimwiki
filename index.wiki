@@ -1,4 +1,116 @@
-= begin 我的记录 =
-    * [[任务1]]
-    * 任务2
-    * 任务1
+打开文件: /home/own/vimwiki/index.wiki
+    = begin 我的记录 =
+*okular pdf阅读器 caj 论文格式阅读器
+140.82.112.3 github.com
+ipconfig /flushdns
+coc.nvim:registry=http://registry.npmmirror.com
+coc-clangd , coc-snippets ,coc-python(pip install python-language-server[all])
+alt+left/right 网页回退/前进
+smartset按键图表是设置
+smartset+f8 连接键盘
+*[[nvm]] 
+`` ,.  输入法上/下一页 ``
+`` sudo npm install -g gitbook ``
+
+
+\o open 
+
+[global]
+index-url=https://mirrors.aliyun.com/pypi/simple
+%% pip config set install.trusted-host mirrors.aliyun.com
+
+*[[excel]]
+* [[]]
+* [[win快捷键]]
+* [[linux]]
+* [[zip]]
+* [[opengl]]
+* [[vim]]
+* [[CCC语言]]
+* [[乱码]]
+* [[vimrc]]
+* [[邮箱]]
+* [[python]]
+* [[应用大全]]
+* [[数据库学习]] Dbeaver
+* [[Docker]]
+* [[pyvim]]
+* 
+* [[s20]]
+
+
+
+{<!-- -->{<!-- -->{ class="brush:cpp"
+
+}}}
+这中间的内容会被放到一个 pre 里，适合贴代码。
+上面的 class 是可选的，一般用来安排代码高亮。
+事实上，这一块代码展示就是放在了一个 pre 里。
+
+
+
+
+
+
+
+
+
+打开文件: /home/own/vimwiki/index.wiki
+    = begin 我的记录 =
+*okular pdf阅读器 caj 论文格式阅读器
+140.82.112.3 github.com
+coc.nvim:registry=http://registry.npmmirror.com
+coc-clangd , coc-snippets ,coc-python(pip install python-language-server[all])
+alt+left/right 网页回退/前进
+*[[nvm]] 
+`` ,.  输入法上/下一页 ``
+``
+sudo npm install -g gitbook
+``
+
+\o open 
+
+[global]
+index-url=https://mirrors.aliyun.com/pypi/simple
+%% pip config set install.trusted-host mirrors.aliyun.com
+
+*[[excel]]
+* [[]]
+* [[win快捷键]]
+* [[linux]]
+* [[zip]]
+* [[opengl]]
+* [[vim]]
+* [[CCC语言]]
+* [[乱码]]
+* [[vimrc]]
+* [[邮箱]]
+* [[python]]
+* [[应用大全]]
+* [[数据库学习]] Dbeaver
+* [[Docker]]
+* [[pyvim]]
+* 
+* [[s20]]
+
+
+
+{<!-- -->{<!-- -->{ class="brush:cpp"
+
+}}}
+这中间的内容会被放到一个 pre 里，适合贴代码。
+上面的 class 是可选的，一般用来安排代码高亮。
+事实上，这一块代码展示就是放在了一个 pre 里。
+
+
+
+
+
+
+
+
+
+
+
+
+

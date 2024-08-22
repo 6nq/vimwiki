@@ -1,0 +1,24 @@
+[[google-chromestable]] --version //查看版本
+
+//download
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+dpkg -i google-chrome-stable_current_amd64.deb
+/usr/bin/google-chrome-stable -v     //查看
+/usr/bin/google-chrome-stable status
+
+wget https://npm.taobao.org/mirrors/chromedriver/98.0.4758.102/chromedriver_linux64.zip
+unzip chromedriver_linux64.zip
+mv chromedriver /usr/bin/ 
+chmod +x /usr/bin/chromedriver
+
+%% *own
+sudo cp chromedriver /usr/bin
+%% when use ,cp to current route
+
+* [[sele.py]] k
+
+
+
+
+
+

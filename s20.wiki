@@ -1,0 +1,1 @@
+:e ~/code/hello_My_work/s20/s20.cpp

@@ -1,0 +1,10 @@
+数据库
+pymysql
+
+复数 t=1+2j
+
+* 
+* [[Pandas.py]]
+* [[selenium自动测试]]
+* filter,map,reduce
+* functools import reduce

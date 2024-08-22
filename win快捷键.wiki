@@ -1,0 +1,6 @@
+
+win-shift-s 截屏
+win+上 最大化窗口
+win+d all min
+win+tap
+win+crtl+left/right  桌面切换

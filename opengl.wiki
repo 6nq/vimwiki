@@ -1,0 +1,16 @@
+
+sudo apt install build-essential
+sudo apt install libglfw3 libglfw3-dev
+sudo apt install libglew2.2 libglew-dev
+++ 数学库 ++
+sudo apt install libglm-dev
+sudo apt install assimp-utils libassimp5 libassimp-dev
+sudo apt-get install freeglut3-dev
+
+== change version glad ==
+glxinfo | grep -i opengl
+https://glad.dav1d.de/
+
+cd glad/include
+sudo mv glad/ /usr/local/include #将glad目录移动到/usr/local/include
+sudo mv KHR/ /usr/local/include #将KHR目录移动到/usr/local/include

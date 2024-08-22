@@ -1,0 +1,6 @@
+map.qq.com 端口143
+
+imap.qq.com 端口143
+smtp.qq.com 端口25
+qq邮箱内用授权码代替密码登录邮箱服务器
+fhbkbogztqokhgih

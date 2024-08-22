@@ -1,0 +1,8 @@
+ 
+ iconv -f 文件编码格式 -t 目标格式 -c 1.txt > 2.txt
+ gb2312 utf8
+ 
+ 
+ 
+ 
+ 

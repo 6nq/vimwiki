@@ -1,0 +1,3 @@
+??sudo apt install numpy-stl
+sudo apt-get install build-essential libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev
+sudo apt install python3-pandas

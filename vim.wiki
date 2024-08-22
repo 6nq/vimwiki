@@ -1,0 +1,40 @@
+sudo add-apt-repository ppa:jonathonf/vim
+coc.vim/  do npm install
+
+
+C-y C-n C-p 当前/下一个/上一个
+<C-e>：还原最初的输入项。
+<C-h>：从当前匹配项中删除一个字符。
+<C-l>：从当前匹配项中增加一个字符。
+<C-x_C-n>：根据当前文件里关键字补全。
+<C-x_C-k>：从字典文件中获取补全项。
+<C-x_C-t>：从thesaurus设定的文件中获取补全项。
+<C-x_C-i>：从包含文件中获取补全项。
+<C-x_C-]>：从外部标签中获取补全项。
+<C-x_C-l>：补全整行。
+<C-x_C-f>：补全文件名。
+<C-x_C-o>：根据编程语言来进行补全。
+
+* [[vimwiki]] 
+
+c-r + " 删除寄存器中内容
+
+批量替换^M
+:%s/\r//g
+set fileformat=unix
+cmd run   
+dos2unix  target
+
+apt install vim-doc vim-script
+ctags fzf nodejs
+
+\b 窗口栏查找
+
+
+
+
+
+
+shift+m 回到屏幕中间
+
+

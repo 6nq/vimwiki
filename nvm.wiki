@@ -1,0 +1,15 @@
+
+nvm control node-version
+git clone https://github.com/nvm-sh/nvm.git .nvm
+git checkout v0.39.3
+./install.sh
+nvm install/use/uninstall v20.12.0
+nvm alias default v20.12.0 默认
+
+.bahsrc``
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+``
+
+

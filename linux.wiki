@@ -1,0 +1,8 @@
+
+%% 释放apt锁
+sudo rm /var/lib/dpkg/lock
+
+%% 杀死进程
+kill -9 id_1349 
+
+
